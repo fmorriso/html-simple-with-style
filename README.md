@@ -3,10 +3,11 @@ A simple HTML project with CSS styling via SCSS.
 
 ## Tools Used
 
-| Tool             |  Version |
-|:-----------------|---------:|
-| WebStorm         | 2024.3.0 |
-| VSCode           |   1.95.3 |
+| Tool     |  Version |
+|:---------|---------:|
+| SASS     |    1.8.1 |
+| WebStorm | 2024.3.0 |
+| VSCode   |   1.95.3 |
 
 ## Change History
 
