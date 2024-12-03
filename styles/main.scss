@@ -1,8 +1,14 @@
 $palmer-ridge-blue: #001E33;
 $palmer-ridge-gold: #6D521D;
 $normal-text-color: yellow;
+$margin-size: 0px;
 body { background-color: $palmer-ridge-gold; }
 .normal-text-color { color: $normal-text-color; }
 .header { background-color: $palmer-ridge-blue; }
 .body { background-color: $palmer-ridge-gold; }
-
+.no-margin {
+  margin-top: $margin-size;
+  margin-bottom: $margin-size;
+  margin-left: $margin-size;
+  margin-right: $margin-size;
+}
